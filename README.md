@@ -5,7 +5,7 @@
 # :trophy: Challenge 06: Database Update
 
 <p align="left">
-    <img alt="Github language count" src="  https://img.shields.io/github/languages/count/gbdsantos/bootcamp-gostack-challenge-06">
+    <img alt="Github language count" src="https://img.shields.io/github/languages/count/gbdsantos/bootcamp-gostack-challenge-06">
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/top/gbdsantos/bootcamp-gostack-challenge-06">
 
