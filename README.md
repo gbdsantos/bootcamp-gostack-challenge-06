@@ -4,22 +4,39 @@
 
 # :trophy: Challenge 06: Database Update
 
-## :rocket: About Challenge
+<p align="left">
+    <img alt="Github language count" src="  https://img.shields.io/github/languages/count/gbdsantos/bootcamp-gostack-challenge-06">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/top/gbdsantos/bootcamp-gostack-challenge-06">
+
+  <a href="https://expressjs.com//">
+    <img alt="Express version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/bootcamp-gostack-challenge-06/express">
+  </a>
+
+  <a href="https://typeorm.io/#/">
+    <img alt="TypeORM version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/bootcamp-gostack-challenge-06/typeorm">
+  </a>
+
+  <a href="https://www.typescriptlang.org/">
+    <img alt="Typescript version" src="https://img.shields.io/github/package-json/dependency-version/gbdsantos/bootcamp-gostack-challenge-06/dev/typescript">
+  </a>
+
+  <img alt="Wakatime last commit" src="https://wakatime.com/badge/github/gbdsantos/bootcamp-gostack-challenge-06.svg">
+
+  <img alt="Github last commit" src="https://img.shields.io/github/last-commit/gbdsantos/bootcamp-gostack-challenge-07">
+</p>
+
+<div align="center">
+  <img alt="Challenge demo" src="https://i1.lensdump.com/i/jQoH7Z.gif" />
+</div>
+
+## :bulb: About Challenge
 
 Using <span style="color:lightgreen; font-weight:bold;">NodeJS</span> and <span style="color:darkslateblue; font-weight:bold;">Typescript</span> to make a transaction management application that stores incoming and outgoing financial transactions and allows the registration and listing of these transactions, in addition to allowing the creation of new records in the database by sending a csv file.
 
 [:brazil: Desafio 06](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-database-upload)
 
 Challenge completed on 2020-04-23.
-
-## Technology
-
-- [NodeJS](https://nodejs.org/en/)
-- [Typescript](https://www.typescriptlang.org/)
-- [TypeORM](https://typeorm.io/)
-- [Docker](https://www.docker.com/)
-- [Postgres](https://www.postgresql.org/)
-
 
 ## :gear: Getting Started
 
@@ -33,11 +50,16 @@ yarn typeorm migration:run
 # Run application
 yarn dev:server
 ```
-> Access the URL in your browser http://localhost:3333
 
-## Demo
+> Access the URL in your browser http://localhost:333
 
-<img alt="Bootcamp GoStack Challenge 06" src="https://i1.lensdump.com/i/jQoH7Z.gif" />
+## Technology
+
+- [NodeJS](https://nodejs.org/en/)
+- [Typescript](https://www.typescriptlang.org/)
+- [TypeORM](https://typeorm.io/)
+- [Docker](https://www.docker.com/)
+- [Postgres](https://www.postgresql.org/)
 
 ## :man_astronaut: Author
 
